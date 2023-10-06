@@ -1,7 +1,7 @@
 ## Olá, Bem vindo ao meu github!! Eu sou o Matheus Dias!
 
 - 🔭 Em busca do primeiro emprego como front-end Jr.
-- 🌱 Estudo Html/Css, JavaScript/NodeJs e VueJs.
+- 🌱 HTML / CSS / JS
 - 📫 Contate-me no email: matheusdias.front96@gmail.com
 
   ##
