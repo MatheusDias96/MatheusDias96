@@ -2,7 +2,7 @@
 
 - 🔭 Em busca do primeiro emprego como front-end Jr.
 - 🌱 HTML / CSS / JS
-- 📫 Contate-me no email: matheusdias.front96@gmail.com
+- 📫 matheusdias.front96@gmail.com
 
   ##
   
